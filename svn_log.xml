@@ -1,0 +1,769 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="7875">
+<author>npanta2</author>
+<date>2012-10-12T14:39:48.247367Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/sourcecode/Cities_List.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/sourcecode/Dijkstras.py</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.1/src/gui</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/gui/Part1Methods.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/gui/Part2Methods.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/sourcecode/Continents.py</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.1/.settings</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.1/src/sourcecode</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/sourcecode/Routes_List.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/sourcecode/Parser.py</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.1/src</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/sourcecode/Dijkstras.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/gui/map_data.json</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/sourcecode/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.1/bin/gui</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/gui/Driver.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/sourcecode/Continents.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/gui/Part1Methods.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/gui/Part2Methods.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/tests/testEdits.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/tests/testCost.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/gui/__init__.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/sourcecode/Cost.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/tests/testData.py</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.1/tests</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/sourcecode/Parser.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/sourcecode/Routes_List.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/sourcecode/__init__.py</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.1/bin</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/tests/testCities.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/gui/map_data.json</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/gui/Driver.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/sourcecode/PublicVariables.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/tests/map_data.json</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/sourcecode/Cost.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/gui/__init__.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/src/sourcecode/Cities_List.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/.project</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/tests/testStats.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/tests/__init__.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/.pydevproject</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.1/bin/sourcecode/PublicVariables.py</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.1/bin/sourcecode</path>
+</paths>
+<msg>final submission</msg>
+</logentry>
+<logentry
+   revision="6993">
+<author>npanta2</author>
+<date>2012-10-05T13:10:19.849809Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment2.0/gui/Driver.py</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment2.0/tests/testStats.py</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment2.0/tests/testCities.py</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment2.0/source/Cities_List.py</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment2.0/source/Parser.py</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment2.0/source/Routes_List.py</path>
+</paths>
+<msg>final submission</msg>
+</logentry>
+<logentry
+   revision="6940">
+<author>npanta2</author>
+<date>2012-10-05T08:55:40.338904Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/gui/Driver.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/tests/testCities.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/gui/__init__.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/source/map_data.json</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/source/Parser.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/.project</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.0/gui</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/source/__init__.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/tests/testStats.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/tests/__init__.py</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/.pydevproject</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.0</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.0/source</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/source/Cities_List.py</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment2.0/tests</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment2.0/source/Routes_List.py</path>
+</paths>
+<msg>first submission</msg>
+</logentry>
+<logentry
+   revision="6275">
+<author>npanta2</author>
+<date>2012-09-28T14:58:12.816472Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/sourcecode/MazeNode.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/test/TestMazeConstruction.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/test/TestAlgorithms.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/cost/Euclidean.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/sourcecode/MazeDriver.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/sourcecode/Algorithms.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.3/src/gui</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/sourcecode/Parse.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/sourcecode/Astar.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/sourcecode/Dijkstra.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/test/TestMazeComputation.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.3/test</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/sourcecode/BMP.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.3/src/sourcecode</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/gui/MazeView.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/cost/Cost.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.3/src</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/cost/Manhattan.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/test/TestMazeSets.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/gui/MazeController.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/cost/Diagonal.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/sourcecode/Maze.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/src/sourcecode/NodeCompare.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.3/src/cost</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/test/MockitoAstar.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.3/test/MockitoDijkstra.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.3</path>
+</paths>
+<msg>first submission</msg>
+</logentry>
+<logentry
+   revision="5317">
+<author>npanta2</author>
+<date>2012-09-21T13:52:51.238609Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/npanta2/Assignment1.2/lib</path>
+</paths>
+<msg>final submission</msg>
+</logentry>
+<logentry
+   revision="5309">
+<author>npanta2</author>
+<date>2012-09-21T13:23:35.984551Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/test/TestMazeConstruction.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/NodeCompare.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/MazeNode.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/test/TestMaze0.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/MockitoAstar.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/test/TestMaze2.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/MockitoDijkstra.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/test/TestMazeComputation.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.2/test</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/Parse.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/Astar.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/Manhattan.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/Dijkstra.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/TestMazeConstruction.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/MazeDriver.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/Cost.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/MazeBMP/maze0.bmp</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/MazeBMP/maze1.bmp</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/BMP.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/Diagonal.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/MazeBMP/maze2.bmp</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/Parse.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/Astar.class</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.2/src</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/Dijkstra.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/TestMaze0.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/TestMaze1.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/TestMaze2.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/BMP.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/test/TestMazeSets.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.2/MazeBMP</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/test/MockitoAstar.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/test/MockitoDijkstra.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/Draw.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/Euclidean.class</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.2/lib</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/TestMazeSets.class</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.2/bin</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/test/TestAlgorithms.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/Maze.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/Draw.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/test/TestMaze1.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/MazeNode.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/Cost.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/MazeDriver.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/Algorithms.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/Algorithms.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/TestAlgorithms.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/Manhattan.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/lib/mockito-all-1.9.5-rc1.jar</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/Diagonal.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/bin/TestMazeComputation.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/Euclidean.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/NodeCompare.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.2/src/Maze.java</path>
+</paths>
+<msg>first submission</msg>
+</logentry>
+<logentry
+   revision="5212">
+<author>npanta2</author>
+<date>2012-09-21T05:46:39.235065Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.2</path>
+</paths>
+<msg>first submission</msg>
+</logentry>
+<logentry
+   revision="4031">
+<author>npanta2</author>
+<date>2012-09-14T13:35:35.520914Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/test/TestMazeConstruction.java</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/src/MazeNode.java</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/test/TestMazeSets.java</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/test/TestMazeComputation.java</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/src/Algorithms.java</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/src/Astar.java</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/src/Dijkstra.java</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/src/Maze.java</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/src/Draw.java</path>
+</paths>
+<msg>final submission</msg>
+</logentry>
+<logentry
+   revision="3987">
+<author>npanta2</author>
+<date>2012-09-14T08:06:39.838174Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/src/MazeNode.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/doxygen_log.txt</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/test/TestMazeComputation.java</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/src/Astar.java</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/src/Dijkstra.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/Doxyfile</path>
+<path
+   kind="file"
+   action="M">/npanta2/Assignment1.1/src/Maze.java</path>
+</paths>
+<msg>Dox</msg>
+</logentry>
+<logentry
+   revision="3906">
+<author>npanta2</author>
+<date>2012-09-14T05:02:33.014825Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/TestMazeSets.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/NodeCompare.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/Maze.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/Draw.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/src/MazeNode.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/MazeNode.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/test/TestMazeComputation.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.1/.settings</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/src/Dijkstra.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/.project</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/Algorithms.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/test/TestPriorityQueue.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/Astar.class</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.1/src</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/src/Calculations.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/TestMain.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/TestPriorityQueue.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/src/NodeCompare.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/src/Draw.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/Block.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/test/TestMazeConstruction.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.1/bin</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.1/test</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/src/Algorithms.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/src/Astar.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/test/TestMain.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/TestMazeConstruction.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/Dijkstra.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/test/TestMazeSets.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/TestMazeComputation.class</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/bin/Calculations.class</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/src/Block.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.1/src/Maze.java</path>
+</paths>
+<msg>first submission</msg>
+</logentry>
+<logentry
+   revision="2784">
+<author>npanta2</author>
+<date>2012-09-07T13:14:55.806838Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.0/Assignment1.0/TestMazeSets.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.0/Assignment1.0/Maze.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.0/Assignment1.0/TestMazeComputation.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.0/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.0/Assignment1.0/MazeNode.java</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.0/Assignment1.0/TestMain.java</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment1.0/Assignment1.0/TestMazeConstruction.java</path>
+</paths>
+<msg>final</msg>
+</logentry>
+<logentry
+   revision="1636">
+<author>npanta2</author>
+<date>2012-08-31T07:03:56.864296Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment0/Assignment0</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment0/Assignment0/quadtree.h</path>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment0/Assignment0/quadtree.cpp</path>
+</paths>
+<msg>new import</msg>
+</logentry>
+<logentry
+   revision="572">
+<author>npanta2</author>
+<date>2012-08-29T19:49:23.871700Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/npanta2/Assignment0/server.c</path>
+<path
+   kind="dir"
+   action="A">/npanta2/Assignment0</path>
+</paths>
+<msg>first import</msg>
+</logentry>
+<logentry
+   revision="109">
+<author>root</author>
+<date>2012-08-23T19:30:25.604972Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/npanta2</path>
+</paths>
+<msg>created directory npanta2</msg>
+</logentry>
+</log>
